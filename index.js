@@ -23,4 +23,4 @@ function elevator(yourFloor){
     }
 }
 }
-elevator(5)dasdas
+elevator(5)
